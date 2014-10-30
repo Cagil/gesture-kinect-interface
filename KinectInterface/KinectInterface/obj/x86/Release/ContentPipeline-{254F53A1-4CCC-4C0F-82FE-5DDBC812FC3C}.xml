@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Courier New.spritefont</Source>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Courier New.xnb</Output>
+      <Time>2014-07-07T15:29:00.6831504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Events\slide11.png</Source>
+      <Name>Data\Events\slide11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Events\slide11.xnb</Output>
+      <Time>2014-07-09T13:59:53.7201371+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\slide1.png</Source>
+      <Name>Data\slide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\slide1.xnb</Output>
+      <Time>2014-07-08T14:54:17.0886384+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Notices\slide10.png</Source>
+      <Name>Data\Notices\slide10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Notices\slide10.xnb</Output>
+      <Time>2014-07-09T13:58:59.8140538+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Notices\slide9.jpg</Source>
+      <Name>Data\Notices\slide9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Notices\slide9.xnb</Output>
+      <Time>2014-07-09T13:58:28.0162351+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Opportunities\slide6.png</Source>
+      <Name>Data\Opportunities\slide6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Opportunities\slide6.xnb</Output>
+      <Time>2014-07-09T13:55:32.1891784+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Opportunities\slide7.png</Source>
+      <Name>Data\Opportunities\slide7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Opportunities\slide7.xnb</Output>
+      <Time>2014-07-09T13:56:14.6926094+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Opportunities\slide8.png</Source>
+      <Name>Data\Opportunities\slide8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Opportunities\slide8.xnb</Output>
+      <Time>2014-07-09T13:57:33.0650921+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Student Work\slide2.png</Source>
+      <Name>Data\Student Work\slide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Student Work\slide2.xnb</Output>
+      <Time>2014-07-09T13:52:11.716712+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Student Work\slide3.png</Source>
+      <Name>Data\Student Work\slide3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Student Work\slide3.xnb</Output>
+      <Time>2014-07-09T13:52:50.3859237+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Student Work\slide4.png</Source>
+      <Name>Data\Student Work\slide4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Student Work\slide4.xnb</Output>
+      <Time>2014-07-09T13:53:42.8559249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Extras\slide12.png</Source>
+      <Name>Data\Extras\slide12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Extras\slide12.xnb</Output>
+      <Time>2014-07-08T14:54:17.0886384+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\video.wmv</Source>
+      <Name>Data\video</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\video.xnb</Output>
+      <Extra>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\video.wmv</Extra>
+      <Time>2010-08-26T21:57:49.9625089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Data\Extras\video1.wmv</Source>
+      <Name>Data\Extras\video1</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Extras\video1.xnb</Output>
+      <Extra>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Extras\video1.wmv</Extra>
+      <Time>2010-08-26T21:57:49.9625089+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{254F53A1-4CCC-4C0F-82FE-5DDBC812FC3C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterfaceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-05T12:34:57.9729636+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

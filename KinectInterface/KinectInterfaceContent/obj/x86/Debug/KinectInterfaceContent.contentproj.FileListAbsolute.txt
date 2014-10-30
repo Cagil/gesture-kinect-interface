@@ -1,0 +1,1 @@
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterfaceContent\obj\x86\Debug\KinectInterfaceContent.contentprojResolveAssemblyReference.cache

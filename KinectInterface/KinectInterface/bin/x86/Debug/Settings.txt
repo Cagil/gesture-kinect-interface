@@ -1,0 +1,46 @@
+#SETTINGS
+#
+#
+#DEFAULT PARAMETERS
+#
+##WINDOW SETTINGS
+#fullscreen = true
+#window_width = 800
+#window_height = 600
+
+#Content Locations
+#data_folder_name = Data
+#texture_folder_name = Textures
+#font_folder_name = Fonts
+#gesture_folder_name = Gestures
+#
+#
+#
+
+
+
+#WINDOW SETTINGS
+fullscreen = true
+window_width = 800
+window_height = 600
+
+#Content Locations
+#content_folder_loc = C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\\KinectInterfaceContent\
+content_folder_loc = C:\Users\Cagil\Desktop\KINECT_INTERFACE\Data\
+data_folder_name = Data
+texture_folder_name = Textures
+font_folder_name = Fonts
+gesture_folder_name = Gestures
+
+#INTERFACE SETTINGS
+menu_margin_left = 5
+menu_margin_top = 10
+menu_margin_right = 5
+menu_margin_bottom = 5
+main_menu_grid_x = 2
+main_menu_grid_y = 2
+category_menu_grid_x = 2
+category_menu_grid_y = 2
+button_width_percent = 95
+button_height_percent = 92
+

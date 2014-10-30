@@ -1,0 +1,21 @@
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Courier New.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Events\slide11.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\slide1.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Notices\slide10.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Notices\slide9.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Opportunities\slide6.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Opportunities\slide7.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Opportunities\slide8.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Student Work\slide2.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Student Work\slide3.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Student Work\slide4.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Extras\slide12.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\video.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Extras\video1.xnb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\video.wmv
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\Content\Data\Extras\video1.wmv
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\KinectInterface.exe
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\bin\x86\Release\KinectInterface.pdb
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\obj\x86\Release\KinectInterface.exe
+C:\Users\Cagil\Documents\dissertation-kinect-interface\KinectInterface\KinectInterface\obj\x86\Release\KinectInterface.pdb
